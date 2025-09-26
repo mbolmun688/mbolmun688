@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hola, soy Marcos B.M
 
-<!--
-**mbolmun688/mbolmun688** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de **Informática**  
+💻 Apasionado por la **tecnología**, el **desarrollo web** y el **software libre**  
+🚀 Siempre aprendiendo y experimentando con nuevas herramientas  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Sobre mí
+- 📚 Actualmente estoy estudiando **Informática**  
+- 🔎 Me interesa especialmente:
+  - Desarrollo **backend** con PHP / Laravel  
+  - Bases de datos relacionales (**MariaDB**, **MySQL**)  
+  - Arquitecturas con **Docker** y **NGINX**  
+- 🛠️ Disfruto creando proyectos prácticos y resolviendo problemas con código  
+
+---
+
+## 🛠️ Tecnologías y herramientas
+- **Lenguajes:** PHP, Python, JavaScript, SQL  
+- **Frameworks:** Laravel, Node.js (aprendiendo)  
+- **Bases de datos:** MariaDB, MySQL  
+- **DevOps:** Docker, NGINX, Git  
+- **Otros:** HTML, CSS, Bash, Linux  
+
+---
+
+## 📈 Objetivos
+- Mejorar mis conocimientos en **desarrollo web** y **DevOps**  
+- Contribuir a proyectos **open source**  
+- Desarrollar aplicaciones escalables y de alto rendimiento  
+
+---
+
+## 📫 Contacto
+- ✉️ Email: *[tu-email-aquí]*  
+- 💼 LinkedIn: *[tu-linkedin-aquí]*  
+- 🌐 Portfolio: *[tu-portfolio-si-tienes]*  
+
+---
+⭐️ Inspirado en la idea de que el mejor aprendizaje es **crear y compartir**.
