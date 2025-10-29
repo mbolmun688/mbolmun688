@@ -33,7 +33,7 @@
 ---
 
 ## 📫 Contacto
-- ✉️ Email: *[tu-email-aquí]*  
+- ✉️ Email: *marcosbolivarmunoz@gmail.com*  
 - 💼 LinkedIn: *[tu-linkedin-aquí]*  
 - 🌐 Portfolio: *[tu-portfolio-si-tienes]*  
 
