@@ -40,4 +40,4 @@
 ---
 ⭐️ Inspirado en la idea de que el mejor aprendizaje es **crear y compartir**.
 
-![SrGobi GitHub stats](https://github-readme-stats.vercel.app/api?username=SrGobi&show_icons=true&theme=radical)
+![SrGobi GitHub stats](https://github-readme-stats.vercel.app/api?username=mbolmun688&show_icons=true&theme=radical)
