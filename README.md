@@ -38,8 +38,9 @@
 - 🌐 Portfolio: *[tu-portfolio-si-tienes]*  
 
 ---
-⭐️ Inspirado en la idea de que el mejor aprendizaje es **crear y compartir**.
 
 ![SrGobi GitHub stats](https://github-readme-stats.vercel.app/api?username=mbolmun688&show_icons=true&theme=radical)
+
+---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbolmun688)](https://github.com/SrGobi/github-readme-stats)
